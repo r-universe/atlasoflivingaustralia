@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/atlasoflivingaustralia/universe
+	url = https://github.com/atlasoflivingaustralia/atlasoflivingaustralia.r-universe.dev
 	branch = HEAD
 [submodule "galah"]
 	path = galah
