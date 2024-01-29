@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["galah-R", "universe"]
+  "repositories": ["galah-R", "atlasoflivingaustralia.r-universe.dev"]
 }
