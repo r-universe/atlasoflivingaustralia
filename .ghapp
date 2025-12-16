@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["galah-R", "atlasoflivingaustralia.r-universe.dev"]
+  "repositories": ["galah-R", "atlasoflivingaustralia.r-universe.dev", "potions", "galaxias", "delma", "corella"]
 }
