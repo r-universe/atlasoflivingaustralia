@@ -2,6 +2,18 @@
 	path = .registry
 	url = https://github.com/atlasoflivingaustralia/atlasoflivingaustralia.r-universe.dev
 	branch = HEAD
+[submodule "corella"]
+	path = corella
+	url = https://github.com/AtlasOfLivingAustralia/corella
+[submodule "delma"]
+	path = delma
+	url = https://github.com/AtlasOfLivingAustralia/delma
 [submodule "galah"]
 	path = galah
 	url = https://github.com/AtlasOfLivingAustralia/galah
+[submodule "galaxias"]
+	path = galaxias
+	url = https://github.com/AtlasOfLivingAustralia/galaxias
+[submodule "potions"]
+	path = potions
+	url = https://github.com/AtlasOfLivingAustralia/potions
